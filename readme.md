@@ -1,4 +1,4 @@
-# CRC: A 400+ FPS Real-Time Image Super-Resolution Network for 4K Images
+# CRC: A 400+ FPS Real-Time Super-Resolution Network for 4K Images
 This is our solution of NTIRE 2023 Real-Time Super-Resolution- Track 1 (X2), which wins the 6th place.
 
 # Model Details
