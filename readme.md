@@ -15,4 +15,4 @@ Runtime: 2.38 ms
 python xswl.py <LRImage.png> <SRImage.png>
 
 # Why CRC
-Because this model is composed of one *C*onvolution, one *R*eLU activation and one *C*onvolution !
+Because this model is composed of one **C**onvolution, one **R**eLU activation and one **C**onvolution!!!
